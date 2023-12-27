@@ -22,7 +22,7 @@ export const metadata: Metadata = {
 			"Cast your vote now and see live updates on the poll results, powered by the real-time capabilities of Supabase database integration in our web app.",
 		url: "https://next-supabase-vote.vercel.app/",
 		siteName: "Daily Vote",
-		images: "/og.png",
+		images: "/logo.svg",
 		type: "website",
 	},
 	keywords: ["luongkhoa"],
