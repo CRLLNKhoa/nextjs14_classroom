@@ -5,11 +5,11 @@ import { IoMdInformationCircleOutline } from "react-icons/io";
 
 const test = [
   { title: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus ratione sequi adipisci eius ipsa minus aut dolorum repellat tempora nesciunt, perspiciatis accusantium nemo. Error dolore temporibus, quisquam nam libero ullam.", votes: 12 },
-  { title: "Ruby", votes: 32 },
-  { title: "JavaScript", votes: 400 },
-  { title: "Ruby", votes: 11 },
-  { title: "Python", votes: 3 },
-  { title: "Java", votes: 29 },
+  { title: "Ruby", votes: 1 },
+  { title: "JavaScript", votes: 1 },
+  { title: "Ruby", votes: 4 },
+  { title: "Python", votes: 1 },
+  { title: "Java", votes: 5 },
 ];
 
 export default function VoteContent() {

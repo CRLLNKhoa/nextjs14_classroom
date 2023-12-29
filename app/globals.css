@@ -61,3 +61,7 @@
   background-color: #e3ba1576;
   border-radius: 6px;
 }
+
+.notscroll::-webkit-scrollbar {
+  display: none;
+}
